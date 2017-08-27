@@ -10,6 +10,9 @@
 
 @interface ViewController : UIViewController
 
+@property
+@import OK;
+
 
 @end
 
